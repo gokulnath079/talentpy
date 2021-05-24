@@ -1,0 +1,13 @@
+html>
+    <head>
+        <h1><center>our app</center></h1>
+        <hr></hr>
+        <marquee ><h1>"welcome to our app"</h1></marquee>
+    </head>
+    <body style="background-color:green;">
+        <a href="file:///D:/gokul.html"><h1>HOME PAGE</h1></a>
+        <a href="file:///D:/PRODUCT.html"><h1>PRODUCT PAGE</h1></a>
+        <a href="file:///D:/contact.html"><h1>CONTACT PAGE</h1></a>
+        
+    </body>
+</html>
